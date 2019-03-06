@@ -1,3 +1,12 @@
+|                |                                    |
+| -------------- | ---------------------------------- |
+| Author         | Maria Paula Fernandez, Jamie Pitts |
+| Discussions To | [FEM Forum](https://ethereum-magicians.org/t/forming-a-ring-preserving-integrity/2860) |
+| Status         | Draft |
+| Type           | Informational |
+| Category       | Policy |
+| Created        | 2019-03-06 |
+
 # Ethereum Community's Code of Conduct v1
 
 ## Statement of Intent
