@@ -1,7 +1,7 @@
 |                |                                    |
 | -------------- | ---------------------------------- |
 | Author         | Maria Paula Fernandez, Jamie Pitts |
-| Discussions To | [FEM Forum](https://ethereum-magicians.org/t/forming-a-ring-preserving-integrity/2860) |
+| Discussions To | [FEM Forum Discussion ID 2836](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) |
 | Status         | Draft |
 | Type           | Informational |
 | Category       | Policy |
