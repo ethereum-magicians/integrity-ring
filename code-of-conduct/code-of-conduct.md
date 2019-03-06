@@ -1,7 +1,7 @@
 |                |                                    |
 | -------------- | ---------------------------------- |
 | Author         | Maria Paula Fernandez, Jamie Pitts |
-| Discussions To | [FEM Forum Discussion ID 2836](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) |
+| Discussions To | [FEM Forum, Discussion ID 2836](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) |
 | Status         | Draft |
 | Type           | Informational |
 | Category       | Policy |
@@ -36,7 +36,10 @@ By the nature of our decentralized space, the adoption of this code of conduct w
 ## Feedback 
 
 The FEM Integrity Ring is responsible for maintaining and evolving of this document.
-Add Github link (TODO)
+
+GitHub Repo: [https://github.com/ethereum-magicians/integrity-ring](https://github.com/ethereum-magicians/integrity-ring)
+
+Initial Discussion: [FEM Forum, Discussion ID 2836](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836)
 
 ## Glossary
 
@@ -54,7 +57,7 @@ is any conduct, verbal or physical, that has the intent or effect of interfering
 includes visual displays of degrading sexual images, sexually suggestive conduct, offensive remarks of a sexual nature, requests for sexual favors, unwelcome physical contact, and sexual assault.
 
 **Unwelcomed behavior**
-*Hard to define? Some questions to ask yourself are:*
+Hard to define? Some questions to ask yourself are:
 * how would I feel if I were in the position of the recipient?
 * would my spouse, parent, child, sibling or friend like to be treated this way?
 * would I like an account of my behavior published in the organization's newsletter?
@@ -62,13 +65,13 @@ includes visual displays of degrading sexual images, sexually suggestive conduct
 * could someone misinterpret my behavior as intentionally harmful or harassing?
 * would I treat my boss or a person I admire at work like that ?
 
-*Summary: if you are unsure whether something might be welcome or unwelcome, don't do it.*
+Summary: if you are unsure whether something might be welcome or unwelcome, don't do it.
 
 CoC inspired and adapted from: 
 
 - [EthCC CoC](https://ethcc.io/images/EthCC_CoC.pdf)
 - [W3C](https://www.w3.org/Consortium/cepc/)
-- [AVC] (avc.com) community 
+- [AVC](avc.com) community 
 - [EF CoC from Devcon4](https://devcon4.ethereum.org/code-of-conduct)
 
 
