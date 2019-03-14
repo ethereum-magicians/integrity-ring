@@ -7,7 +7,7 @@
 | Category       | Policy |
 | Created        | 2019-03-06 |
 
-# Ethereum Community's Code of Conduct v1
+# Ethereum Community's Code of Conduct 0.0.1
 
 ## Statement of Intent
 
