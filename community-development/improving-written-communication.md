@@ -1,4 +1,4 @@
-# Written Communication
+# Improving Written Communication
 
 Communication is hard. Communication with a decentralized asynchronous community is even harder. If you don't speak the langauge it's nearly impossible.
 
