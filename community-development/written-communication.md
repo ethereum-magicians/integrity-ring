@@ -7,8 +7,10 @@ Often times, disagreements occur because we don't feel heard. We care about some
 It doesn't have to be that way! While communication is hard, there are tons of people who have been building tools and sharing ideas that can make it better. This is a place to aggregate those tools and resources to help everyone have better written communication :)
 
 ### Ideas
+- [Writing for people who don't read](https://seths.blog/2018/06/writing-for-people-who-dont-read/) - A brilliant post by Seth Godin. Short and to the point. If you read one thing on this list, make it this one.
+- [Save time by writing better](https://blog.luisivan.net/saving-time-by-writing-better-11bce34f4631) - Luis Cuende of Aragon shares some tips for better writing and communication. 
 
 ### Tools
-- http://hemingwayapp.com
-- 
+- [Hemingway](http://hemingwayapp.com) - Free web app that optimizes your writing for readability.
+- [Grammarly](https://grammarly.com) - A keylogger that doubles as a grammar editing tool. Great if english is not your first language. Do not install globally on your computer and do not use in a browser where you copypasta your crypto keys.
 
