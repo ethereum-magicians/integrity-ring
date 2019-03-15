@@ -14,4 +14,4 @@ Humans have been working to communicate and collaborate ever since humans were a
 
 ## Contributing
 
-Please check out the contributing.md file if you want to contribute! :)
+Please check out [contributing.md](https://github.com/burrrata/integrity-ring/blob/master/contributing.md) if there's anything you want to add! :)
