@@ -26,6 +26,7 @@ Questions to reframe problems in a positive sum context. The goal of these quest
 - could my behavior offend or hurt other members of the work group?
 - could someone misinterpret my behavior as intentionally harmful or harassing?
 - would I treat my boss or a person I admire at work like that ?
+Summary: if you are unsure whether something might be welcome or unwelcome, don’t do it.
 
 ### TBD
 - If you think of a question that should be added to this list, please submit a PR or open an issue! :)
