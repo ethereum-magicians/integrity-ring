@@ -1,4 +1,4 @@
-# Integrity Ring of the Ethereum Magicians ✨
+# Ethereum Magicians ✨ Integrity Ring
 
 <br>
 
