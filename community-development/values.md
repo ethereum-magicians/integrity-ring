@@ -2,10 +2,14 @@
 
 This is for general guiding principles that the Ethereum community thinks are important.
 
-### Decentralization: no one party has the power
+### Decentralization
+- Everyone has power.
 
-### Permission-less Innovation: anyone can participate
+### Permission-less Innovation:
+- Anyone can participate.
 
-### Censorship Resistant: no one can stop anyone else from participating
+### Censorship Resistant:
+- No one can stop anyone else from participating.
 
-### TBD: you decide! Create an issue or PR with ideas :)
+### TBD
+- You decide! Create an issue or PR with ideas :)
