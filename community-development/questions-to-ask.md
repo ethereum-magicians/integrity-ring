@@ -19,5 +19,13 @@ Questions to reframe problems in a positive sum context. The goal of these quest
 - Can I back my idea up with facts? If so, what are those? Share them. If not, why? More research would make for a more persuasive discussion.
 - Can I argue for the other side of this issue as well, or do I only understand my own viewpoint?
 
+### Questions to help define "unwelcomed behavior"
+- how would I feel if I were in the position of the recipient?
+- would my spouse, parent, child, sibling or friend like to be treated this way?
+- would I like an account of my behavior published in the organization’s newsletter?
+- could my behavior offend or hurt other members of the work group?
+- could someone misinterpret my behavior as intentionally harmful or harassing?
+- would I treat my boss or a person I admire at work like that ?
+
 ### TBD
 - If you think of a question that should be added to this list, please submit a PR or open an issue! :)
