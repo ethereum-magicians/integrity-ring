@@ -11,7 +11,7 @@ Best practices for contributing to the CoC and Integrity Ring repo.
 
 If you have questions or ideas you'd like to discuss head on over to the [forum](https://ethereum-magicians.org/)! This is where the majority of the Ethereum Magicians conversations happen. 
 
-For questions and ideas specifically related to the CoC, [this](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) is the thread where it all started.
+For questions and ideas specifically related to the CoC, [this thread](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) is where it all started.
 
 
 
