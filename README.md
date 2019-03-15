@@ -11,3 +11,7 @@ It is proposed that the Code of Conduct project generally follow the [EIP workfl
 ## Community Development
 
 Humans have been working to communicate and collaborate ever since humans were a thing. Blockchains and decentralized networks promise better human collaboration at scale. This section of the repo provides resources to help make the community safer, more diverse, and more collaborative. The goal is not to tell people what to do, but improve the experience of interacting with the Ethereum community for everyone.
+
+## Contributing
+
+Please check out the contributing.md file if you want to contribute! :)
