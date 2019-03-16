@@ -4,7 +4,7 @@ Best practices for contributing to the CoC and Integrity Ring repo.
 
 ### Link Format
 
-Links and descriptions in the [Awesome List](https://github.com/sindresorhus/awesome) format:
+Links and descriptions are in the [Awesome List](https://github.com/sindresorhus/awesome) format:
 
 - [ Title ] ( https://link_of_site.com/thing_on_that_site ) - description of the thing you're sharing.
 
