@@ -1,4 +1,4 @@
-# Community Development
+# Community Development Resources
 
 This is a place for best practices on avoiding conflict and increasing collaboration. Often times the room cause of drama and confusion is simply miscommunication. Miscommunication leads to frustration. Frustration leads to drama. Drama leads to conflict and confusion. 
 
