@@ -15,7 +15,7 @@ Links and descriptions in the [Awesome List](https://github.com/sindresorhus/awe
 
 ### Questions and Conversations
 
-If you have questions or ideas you'd like to discuss head on over to the [forum](https://ethereum-magicians.org/)! This is where the majority of the Ethereum Magicians conversations happen. 
+If you have questions or ideas you'd like to discuss head on over to the [Ethereum Magicians forum](https://ethereum-magicians.org/)! This is where the majority of the Ethereum Magicians conversations happen. 
 
 For questions and ideas specifically related to the CoC, [this thread](https://ethereum-magicians.org/t/ethmagicians-council-of-prague-integrity-ring-community-code-of-conduct/2836) is where it all started.
 
