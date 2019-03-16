@@ -20,3 +20,4 @@ It doesn't have to be that way! While communication is hard, there are tons of p
 - [The Work Required to Have an Opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/) - If you don't understand any viewpoints beyond your own, you're going to have a hard time framing things in a way that other people understand.
 - [How Filter Bubbles Distort Reality](https://fs.blog/2017/07/filter-bubbles/) - You are what you eat. You think what you read. It's impossible to have an informed opinion if your sources of data aren't diverse.
 - [How to tell if people are lying](https://fs.blog/2015/05/elon-musk-lying-experience/) - They can answer questions at multiple levels rather than repeating the same copypasta cliche answer over and over.
+- [Negotiating for win/win outcomes](https://avc.com/2018/12/negotiating-drawing-a-hard-line-or-building-a-negotiating-cushion/) - Fred Wilson shares some insights from years of negotiating deals in startupland. 
