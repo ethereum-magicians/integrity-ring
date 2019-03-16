@@ -2,6 +2,12 @@
 
 Best practices for contributing to the CoC and Integrity Ring repo. 
 
+### Link Format
+
+Links and descriptions in the [Awesome List](https://github.com/sindresorhus/awesome) format:
+
+- [ Title ] ( https://link_of_site.com/thing_on_that_site ) - description of the thing you're sharing.
+
 ### GitHub Guides
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - How to format text on this repo.
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Markdwon commands with examples.
