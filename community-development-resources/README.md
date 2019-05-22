@@ -1,6 +1,6 @@
 # Community Development Resources
 
-This is a place for best practices on avoiding conflict and increasing collaboration. Often times the room cause of drama and confusion is simply miscommunication. Miscommunication leads to frustration. Frustration leads to drama. Drama leads to conflict and confusion. 
+This is a place for best practices on avoiding conflict and increasing collaboration. Often times the root cause of drama and confusion is simply miscommunication. Miscommunication leads to frustration. Frustration leads to drama. Drama leads to conflict and confusion. 
 
 When people are conflicted and confused, we try to resolve our problems. Often times this is when it's too late. It's exponentially harder to empathize and think rationally when you're upset. It's also too late to undo the emotional pain and wasted energy that's resulted from the conflict.
 
